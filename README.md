@@ -11,7 +11,8 @@ Choose all hospitals from Texas (or any other state as you choose) that are gove
 Hospital_General_Information.txt (3.6 MB) (https://catalog.data.gov/dataset/hospital-general-information) with 29 columns and 5335 rows (including a header).
 
 # How to run the code:
-On Mac/Linux: please change the dataset location path in AppRun.py and change move the dataset to a different location accordingly.
+Please change the dataset location path in AppRun.py and change move the dataset to a different location accordingly.
+Command: python3 AppRun.py
 
 # Reesults:
 This program was run on a MacBook Pro (Retina, 15-inch, Mid 2014), 2.2 GHz Intel Core i7, 16 GB 1600 MHz DDR3 for 10 times.
