@@ -5,7 +5,7 @@ Welcome to Python3 HospitalDataprocessing project!
 This simple project is performing a quick data analysis on a public health dataset - Hospital_General_Information.txt (https://catalog.data.gov/dataset/hospital-general-information)
 
 # Purpose:
-Choose all hospitals from Texas (or any other state as you choose) that are government owned, meaningful use of EHRs enabled, and same as or above the national average of patient expierence, then create a new tab-delimited file. Test the runtime speed of this program wrriten in C#.
+Choose all hospitals from Texas (or any other state as you choose) that are government owned, meaningful use of EHRs enabled, and same as or above the national average of patient expierence, then create a new tab-delimited file. Test the runtime speed of this program wrriten in Python3.
 
 # Dataset Description:
 Hospital_General_Information.txt (3.6 MB) (https://catalog.data.gov/dataset/hospital-general-information) with 29 columns and 5335 rows (including a header).
